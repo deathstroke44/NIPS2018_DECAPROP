@@ -22,8 +22,8 @@ from collections import Counter
 
 from parser import *
 
-from keras.utils import np_utils
-from keras.preprocessing import sequence
+#from keras.utils import np_utils
+#from keras.preprocessing import sequence
 from tensorflow.contrib.tensorboard.plugins import projector
 
 from sklearn.metrics import recall_score
